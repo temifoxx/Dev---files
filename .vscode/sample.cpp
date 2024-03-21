@@ -3,8 +3,11 @@ using namespace std;
 int main(){
     int a=57;
     int b=12;
-    cout<<"sum="<<a+b<<"\n";
-    cout<<"sub=",<<a-b<<"\n";
+    cout<<"Addition of a and b = "<<a+b<<"\n";
+    cout<<"Subtractio of a and b = "<<a-b<<"\n";
+    cout<<"Multiplication of a and b = "<<a*b<<"\n";
+    cout<<"Division of a and b = "<<a/b<<"\n";
+    cout<<"Modulus of a and b = "<<a%b<<"\n";
     return 0;
 }
 
